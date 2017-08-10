@@ -1,0 +1,20 @@
+body{
+  background-color: #EEE657;
+}
+.header-title{
+  color: #FCB941;
+  text-shadow: 3px 3px #FE8A71;
+  font-family: 'Fredoka One', sans-serif;
+}
+
+h5, h4{
+  font-family: 'Quicksand', sans-serif;
+}
+
+.box-container{
+  color: white;
+  background-color: #FCB941;
+  height:auto;
+  border-radius: 7px;
+  margin: 3px 10px;
+}
